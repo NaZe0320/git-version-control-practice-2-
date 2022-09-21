@@ -1,4 +1,3 @@
 TODO LIST
 - 원앤온리 재고블록 개발
 - Jetpack Compose 공부
-- Jetpack Compose로 마켓컬리 프론트엔드 구현
